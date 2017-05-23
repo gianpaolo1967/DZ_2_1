@@ -1,0 +1,15 @@
+.red {
+	background: red;
+	height: 35px;
+	width: 100px;
+}
+.blue {
+	background: blue;
+	height: 45px;
+	width: 150px;
+}
+.yellow {
+	background: yellow;
+	height: 45px;
+	width: 200px;
+}

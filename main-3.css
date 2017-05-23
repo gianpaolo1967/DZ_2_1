@@ -1,0 +1,21 @@
+.red {
+ background: red;
+}
+.yellow {
+ background: yellow;
+}
+.blue {
+ background: blue;
+}
+.sm {
+ height: 45px;
+ width: 6%;
+}
+.md {
+ height: 45px;
+ width: 12%;
+}
+.lg {
+ height: 45px;
+ width: 16%;
+}
