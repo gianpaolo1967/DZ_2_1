@@ -1,0 +1,46 @@
+.fourth {
+	background: #ff6600;
+}
+.fourth-p {
+	margin: 22% 0%;
+	font-size: 30px;
+	font-weight: bold;
+	text-align: center;
+}
+.fifth {
+	background: #c2c2a3;
+}
+.fifth-h1 {
+	color: #6b6b47;
+}
+.fifth-h2 {
+	color: black;
+}
+.fifth-h3 {
+	color: #b35900;
+}
+.italic {
+	font-style: italic;
+}
+.sixth-border1 {
+	width: 420px;
+	display: block;
+	vertical-align: top;
+	border-color: black;
+	border-style: dashed;
+}
+.inline {
+	display: inline;
+}
+.blue {
+	color: blue;
+}
+.red {
+	color: red;
+}
+.sixth-border2 {
+	display: inline-block;
+	vertical-align: bottom;
+	margin-top: 10px;
+	border-color: black;
+	border-style: dashed;
